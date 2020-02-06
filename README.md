@@ -2,3 +2,5 @@
   A complete info based on the graduates of "Institute of Technical Education and Research".<br /><br />
    **Contributers:**
  - [Sudeep Rn. Swain](https://github.com/Sudeep25022000)
+ -.[Anup Ghosh](https://github.com/AnupGhosh2605)
+ 
